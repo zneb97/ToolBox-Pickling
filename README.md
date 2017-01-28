@@ -1,4 +1,4 @@
 # ToolBox-Pickling
 Pickling Project Toolbox starter code
 
-Full instructions at https://sites.google.com/site/sd16spring/home/project-toolbox/pickling
+Full instructions at [the course website](https://sd17spring.github.io/toolboxes/pickling/)
